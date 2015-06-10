@@ -6,18 +6,19 @@
 
 ## Isomorphic from the start 
 
-  * **DEMO** and code walktrough: InstaplySDK (iOS, Android)
-  * init server side when you need fast rendering
+  * **DEMO** code walktrough: InstaplySDK (iOS, Android)
+  * Enhance progressively. init server side when you need fast rendering
   * some isomorphic considerations (shared code and config, superagent, momentjs, localization)
+  * Update optimistically. Degrade gracefully.
 
   *(15')*
 
 ## A modern workflow
 
-
   * **DEMO** and code walkthrough: InstaWall (TV)
   * using Browserify
   * ES6 Babel
+    * ES6 with React (composition over mixins)
   * Reflux and socket.io
   
  *(25')*
