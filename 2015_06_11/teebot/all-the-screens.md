@@ -4,6 +4,8 @@
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/teebot/reactJSBelgium/master/2015_06_11/teebot/170426.jpg)
 
+## Some context
+
 ## Isomorphic from the start 
 
   * **DEMO** code walktrough: InstaplySDK (iOS, Android)
